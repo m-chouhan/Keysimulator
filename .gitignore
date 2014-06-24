@@ -1,0 +1,3 @@
+#ignore .o and .a files
+
+*.[oa]
